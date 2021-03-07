@@ -1,5 +1,5 @@
 # ElementSearch
-simple element search programmed in python, version 1.0 currently available.
+simple element search programmed in python, version 1.1 currently available.
 
 choose one of the terms by simply typing your number of choice and proceed to use that term to search for elements
 (a complete list of the properties will be returned),  to stop the program simply type 0.
